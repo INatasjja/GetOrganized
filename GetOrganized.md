@@ -12,7 +12,6 @@
 -	A system to keep track of the onboarding process.
 -	The system must be able to generate a profile per customer so they can enroll as many pets as needed.
 -	The system must allow the employees to update their information adding any service provided to its specific care (trims, baths).
- 
 
 ### Non-Functional Requirements  
 -	Consistent process across all staff.
