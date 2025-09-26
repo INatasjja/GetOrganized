@@ -26,3 +26,10 @@
 -	All the processes are made manually
 -	The owners are willing to invest in standardization and digital tools.
 -	The employees have access to computers or tablets while at the pet care facilities.
+
+### Follow up questions:
+-	Do you have an existing manual or guide for the onboarding process?
+-	Are there any internal policies about pet care or client handling?
+-	Do you have a computer in the lobby area?
+-	Should an integration with existing systems (payroll, schedules) be consider?
+-	Do you sell any product, should we add a module to keep inventory and manage sales?
